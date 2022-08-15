@@ -10,3 +10,5 @@ scethe.png  | спрайт врага
 gameover.png| спарйт проигрыша
 bullet.png  | спрайт пули
 
+
+
